@@ -44,8 +44,24 @@ Fintech â†’ independent quant â†’ DeFi. Everything below is public and self-host
 | Repo | What it is | Stack |
 |---|---|---|
 | **[20-80-software](https://github.com/Ferry737/20-80-software)** | Pareto-principle productivity platform: FastAPI, Next.js glass UI, Flutter app, one `docker compose up`. | FastAPI Â· Postgres Â· Redis Â· Celery Â· Flutter |
-| **[nextjs](https://github.com/Ferry737/nextjs)** | Next.js sandbox pre-configured for AI-assisted development (`AGENTS.md` + `CLAUDE.md`). | Next.js 16 Â· TypeScript Â· Ta…¥±İ¥¹€Ğğ((´´´((ŒŒƒÂ~´!½Ü$‰Õ¥±((´€¨©•Ñ•Éµ¥¹¥ÍÑ¥Œ‰•™½É”±•Ù•È¸¨¨½É”å½Ô…¸É•Á±…ä‰åÑ”µ™½Èµ‰åÑ”‰•…ÑÌ„‘•µ¼å½Ô…¸ĞÉ•ÁÉ½‘Õ”¸(´€¨©I¥Í¬…Ñ•Ì¥¸½‘”°¹½Ğ¥¸ÁÉ½Í”¸¨¨%˜„±¥µ¥Ğ…¸‰”Ñ…±­•½ÕĞ½˜°¥Ğ¥Í¸Ğ„±¥µ¥Ğ¸(´€¨©É•”Ñ¥•ÉÌ™¥ÉÍĞ¸¨¨¥Ñ!ÕˆA…•Ì°±½Õ‘™±…É”]½É­•ÉÌ°™É•”µ½‘•±ÌƒŠP„Í½±¼ÁÉ½©•ĞÍ¡½Õ±‘¸Ğ¹••„Í•ÉÙ•È‰¥±°Ñ¼ÍÑ…ä…±¥Ù”¸(´€¨©	…­Ñ•ÍĞ‰•™½É”±¥Ù”¸¨¨ÍÍÕµ”½Ù•É™¥ĞÕ¹Ñ¥°ÁÉ½Ù•¸½Ñ¡•Éİ¥Í”¸±°½ÍÑÌ¥¸¸5…à‘É…İ‘½İ¸¹…µ•¸((ŒŒƒÂ~R\±Í•İ¡•É”((´€¨©1¥Ù”‘•µ½Ìè¨¨m©…ÉÙ¥Ìµ‘…Í¡‰½…É‘t¡¡ÑÑÁÌè¼½™•ÉÉäÜÌÜ¹¥Ñ¡Õˆ¹¥¼½©…ÉÙ¥Ìµ‘…Í¡‰½…É¼¤ƒ
-Üm…•„µİ••¬Ä¡…É¹•ÍÍt¡¡ÑÑÁÌè¼½™•ÉÉäÜÌÜ¹¥Ñ¡Õˆ¹¥¼½…•„µİ••¬Ä¼¤ƒ
-ÜmµÕ±Ñ¥¡•­t¡¡ÑÑÁÌè¼½µÕ±Ñ¥¡•¬µ½¹”¹Ù•É•°¹…ÁÀ¤ƒ
-Üm¹•áÑ©Ít¡¡ÑÑÁÌè¼½¹•áÑ©Ìµ…‘…µÔÜÌÜ¹Ù•É•°¹…ÁÀ¤ƒ
-Üm1¥ÅÕ¥‘%t¡¡ÑÑÁÌè¼½±¥ÅÕ¥µ…¤µ½É…°¹Ù•É•°¹…ÁÀ¤((´´´((ñ‘¥Ø…±¥¸ô‰•¹Ñ•Èˆø(ñÍÕˆù	Õ¥±‘¥¹œ¥¸ÁÕ‰±¥Œ¸EÕ•ÍÑ¥½¹ÌƒŠH½Á•¸…¸¥ÍÍÕ”½¸…¹äÉ•Á¼¸ğ½ÍÕˆøñ‰Èø(ñÍÕˆ‘¥Èô‰ÉÑ°ˆûbÏbŸb»b«fb0ƒn3bŸb¼ƒj¿bÇfb«fb0ƒb«j§bÇbŸbÄ¸ğ½ÍÕˆø(ğ½‘¥Øø(
+| **[nextjs](https://github.com/Ferry737/nextjs)** | Next.js sandbox pre-configured for AI-assisted development (`AGENTS.md` + `CLAUDE.md`). | Next.js 16 Â· TypeScript Â· Tailwind 4 |
+
+---
+
+## ğŸ§­ How I build
+
+- **Deterministic before clever.** A core you can replay byte-for-byte beats a demo you can't reproduce.
+- **Risk gates in code, not in prose.** If a limit can be talked out of, it isn't a limit.
+- **Free tiers first.** GitHub Pages, Cloudflare Workers, free models â€” a solo project shouldn't need a server bill to stay alive.
+- **Backtest before live.** Assume overfit until proven otherwise. All costs in. Max drawdown named.
+
+## ğŸ”— Elsewhere
+
+- **Live demos:** [jarvis-dashboard](https://ferry737.github.io/jarvis-dashboard/) Â· [aea-week1 harness](https://ferry737.github.io/aea-week1/) Â· [multicheck](https://multicheck-one.vercel.app) Â· [nextjs](https://nextjs-adamu737.vercel.app) Â· [LiquidAI](https://liquid-ai-coral.vercel.app)
+
+---
+
+<div align="center">
+<sub>Building in public. Questions â†’ open an issue on any repo.</sub><br>
+<sub dir="rtl">Ø³Ø§Ø®ØªÙ†ØŒ ÛŒØ§Ø¯ Ú¯Ø±ÙØªÙ†ØŒ ØªÚ©Ø±Ø§Ø±.</sub>
+</div>
